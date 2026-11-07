@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-11-07T14:17:04Z",
-  "total": 11,
+  "generated_at": "2026-11-07T16:17:07Z",
+  "total": 14,
   "by_deal_type": {
-    "DISCOUNT": 6,
-    "LIMITED_FREE": 5
+    "LIMITED_FREE": 8,
+    "DISCOUNT": 6
   },
   "by_category": {
+    "AI_TOOLS": 4,
+    "DIGITAL_MEMBERSHIP": 1,
+    "OTHERS": 5,
     "NETWORK": 3,
-    "OTHERS": 3,
     "GAMES": 1,
-    "AI_TOOLS": 3,
     "DEV_TOOLS": 2,
     "HARDWARE": 2,
     "EDUCATION": 1

@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "nodeseek",
+    "name": "NodeSeek",
+    "status": "OK",
+    "last_success_at": "2026-11-07T08:32:04Z",
+    "last_error_at": "2026-11-07T08:24:53Z",
+    "last_error": "fetch failed after 3 attempts: https://rss.nodeseek.com/ ([SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000))",
+    "consecutive_failures": 0,
+    "last_new_count": 3
+  },
+  {
+    "source_id": "linuxdo",
+    "name": "Linux.do",
+    "status": "BLOCKED",
+    "last_success_at": null,
+    "last_error_at": "2026-11-07T08:32:04Z",
+    "last_error": "Linux.do BLOCKED: Direct fetch returns Cloudflare 403 'Just a moment...' challenge page (verified by direct curl 2026-11-07); this run's proxied fetch failed with: HTTP 403 Cloudflare challenge page: https://linux.do/latest.rss. No bypass attempted.",
+    "consecutive_failures": 8,
+    "last_new_count": 0
+  },
+  {
+    "source_id": "v2ex",
+    "name": "V2EX",
+    "status": "NOT_CONFIGURED",
+    "last_success_at": null,
+    "last_error_at": null,
+    "last_error": null,
+    "consecutive_failures": 0,
+    "last_new_count": 0
+  }
+]

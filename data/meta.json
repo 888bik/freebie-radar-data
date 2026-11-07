@@ -1,13 +1,16 @@
 {
-  "generated_at": "2026-11-07T11:58:45Z",
-  "total": 2,
+  "generated_at": "2026-11-07T12:17:06Z",
+  "total": 6,
   "by_deal_type": {
-    "LIMITED_FREE": 2
+    "DISCOUNT": 3,
+    "LIMITED_FREE": 3
   },
   "by_category": {
-    "OTHERS": 1,
-    "HARDWARE": 1,
-    "NETWORK": 1
+    "OTHERS": 2,
+    "NETWORK": 2,
+    "AI_TOOLS": 1,
+    "DEV_TOOLS": 1,
+    "HARDWARE": 2
   },
   "version": "0.1.0",
   "data_retention_days": 7

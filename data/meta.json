@@ -1,14 +1,13 @@
 {
-  "generated_at": "2026-11-07T09:10:31Z",
+  "generated_at": "2026-11-07T11:58:45Z",
   "total": 2,
   "by_deal_type": {
     "LIMITED_FREE": 2
   },
   "by_category": {
-    "AI_TOOLS": 1,
-    "VPS_CLOUD": 1,
+    "OTHERS": 1,
     "HARDWARE": 1,
-    "EDUCATION": 1
+    "NETWORK": 1
   },
   "version": "0.1.0",
   "data_retention_days": 7

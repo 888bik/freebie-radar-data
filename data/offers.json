@@ -1,23 +1,22 @@
 [
   {
     "id": 1,
-    "title": "分享一个muse的邀请码",
-    "summary": "邀请码：DF4KD1https://muse.ai/join",
-    "description": "邀请码：DF4KD1https://muse.ai/join",
+    "title": "万能的水友拉我一把吧，万分感激，我想白嫖他的积分",
+    "summary": "1",
+    "description": "1",
     "deal_type": "LIMITED_FREE",
     "resource_categories": [
-      "AI_TOOLS"
+      "OTHERS"
     ],
     "source_name": "NodeSeek",
-    "source_url": "https://www.nodeseek.com/post-1037813-1",
+    "source_url": "https://www.nodeseek.com/post-1038113-1",
     "related_source_urls": [
-      "https://www.nodeseek.com/post-1037813-1",
-      "https://muse.ai/join"
+      "https://www.nodeseek.com/post-1038113-1"
     ],
-    "author": "cn0514",
-    "published_at": "2026-11-07T09:02:13Z",
-    "first_seen_at": "2026-11-07T09:07:29Z",
-    "last_seen_at": "2026-11-07T09:10:27Z",
+    "author": "dl20052006",
+    "published_at": "2026-11-07T11:47:53Z",
+    "first_seen_at": "2026-11-07T11:54:10Z",
+    "last_seen_at": "2026-11-07T11:58:44Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -31,7 +30,7 @@
     "requires_payment_method": false,
     "auto_renewal": false,
     "tags": [
-      "AI_TOOLS",
+      "OTHERS",
       "daily"
     ],
     "risk_level": "LOW",
@@ -40,33 +39,32 @@
     "risk_score": 10,
     "verification_status": "NEEDS_REVIEW",
     "deal_status": "ACTIVE",
-    "fingerprint": "ee8311b583ec30f48f07f07eac9ed7faac131fc4533d6cac2ec918b4129f757e"
+    "fingerprint": "e114dbfa36b3539a42067a35473b8649e389690bdfe09481f66c88e56f82af88"
   },
   {
     "id": 2,
-    "title": "【TQ/NQ】Tamago Network 「HKT.NAT.500M.VPS.6」Free · 全翻倍款",
-    "summary": "服务器配置CPUCores2vCPUAmountofRAM1024MBDiskSpace16GBBandwidth600GBNetworkRate2000MbpsIPv4回程IPv4大包回程IPv6回程UDP回程教育网回程国际互联单线程测速报告链接：https://tcpquality.ibsgss.uk/r/y_",
-    "description": "服务器配置CPUCores2vCPUAmountofRAM1024MBDiskSpace16GBBandwidth600GBNetworkRate2000MbpsIPv4回程IPv4大包回程IPv6回程UDP回程教育网回程国际互联单线程测速报告链接：https://tcpquality.ibsgss.uk/r/y_",
+    "title": "【NQ+TQ】六六云 666Cloud 伪家宽 美国年付特价 - 美西4837线路 1C / 1G / 15G SSD / 1Gbps / 800GB 月流量",
+    "summary": "伪家宽，IP纯净度一般，将就用晚高峰4837太拉了，白天还行（直连够用），晚上还是走线路机吧。年付199💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m216.",
+    "description": "伪家宽，IP纯净度一般，将就用晚高峰4837太拉了，白天还行（直连够用），晚上还是走线路机吧。年付199💻基本信息++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[1m硬件质量体检报告：[36m216.",
     "deal_type": "LIMITED_FREE",
     "resource_categories": [
-      "VPS_CLOUD",
       "HARDWARE",
-      "EDUCATION"
+      "NETWORK"
     ],
     "source_name": "NodeSeek",
-    "source_url": "https://www.nodeseek.com/post-1037811-1",
+    "source_url": "https://www.nodeseek.com/post-1038112-1",
     "related_source_urls": [
-      "https://tcpquality.ibsgss.uk/r/y_"
+      "https://www.nodeseek.com/post-1038112-1"
     ],
-    "author": "caigouzi",
-    "published_at": "2026-11-07T09:01:30Z",
-    "first_seen_at": "2026-11-07T09:07:29Z",
-    "last_seen_at": "2026-11-07T09:07:29Z",
+    "author": "oneviiv",
+    "published_at": "2026-11-07T11:47:03Z",
+    "first_seen_at": "2026-11-07T11:54:10Z",
+    "last_seen_at": "2026-11-07T11:58:44Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
     "currency": null,
-    "billing_period": null,
+    "billing_period": "yearly",
     "renewal_price": null,
     "benefits": null,
     "usage_limits": null,
@@ -75,9 +73,8 @@
     "requires_payment_method": false,
     "auto_renewal": false,
     "tags": [
-      "VPS_CLOUD",
       "HARDWARE",
-      "EDUCATION",
+      "NETWORK",
       "review"
     ],
     "risk_level": "LOW",
@@ -86,6 +83,6 @@
     "risk_score": 10,
     "verification_status": "NEEDS_REVIEW",
     "deal_status": "ACTIVE",
-    "fingerprint": "7df23517e75aa97764faf4d5a0318c8d358a646d73fab71e015ad501b14ee5a3"
+    "fingerprint": "96ebc988b1fac8a26d4b2314a111b82f1ae06b692d45879148ad1b113956c313"
   }
 ]

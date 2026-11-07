@@ -2,21 +2,21 @@
   {
     "source_id": "nodeseek",
     "name": "NodeSeek",
-    "status": "ERROR",
-    "last_success_at": null,
+    "status": "OK",
+    "last_success_at": "2026-11-07T09:07:29Z",
     "last_error_at": "2026-11-07T09:04:41Z",
     "last_error": "fetch failed after 3 attempts: https://rss.nodeseek.com/ ([SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000))",
-    "consecutive_failures": 2,
-    "last_new_count": 0
+    "consecutive_failures": 0,
+    "last_new_count": 2
   },
   {
     "source_id": "linuxdo",
     "name": "Linux.do",
     "status": "BLOCKED",
     "last_success_at": null,
-    "last_error_at": "2026-11-07T09:04:44Z",
-    "last_error": "Linux.do BLOCKED: Direct fetch returns Cloudflare 403 'Just a moment...' challenge page (verified by direct curl 2026-11-07); this run's proxied fetch failed with: fetch failed after 3 attempts: https://linux.do/latest.rss ([SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)). No bypass attempted.",
-    "consecutive_failures": 2,
+    "last_error_at": "2026-11-07T09:07:33Z",
+    "last_error": "Linux.do BLOCKED: Direct fetch returns Cloudflare 403 'Just a moment...' challenge page (verified by direct curl 2026-11-07); this run's proxied fetch failed with: fetch failed after 3 attempts: https://linux.do/latest.rss (Server disconnected without sending a response.). No bypass attempted.",
+    "consecutive_failures": 3,
     "last_new_count": 0
   },
   {

@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "分享一个muse的邀请码",
+    "summary": "邀请码：DF4KD1https://muse.ai/join",
+    "description": "邀请码：DF4KD1https://muse.ai/join",
+    "deal_type": "LIMITED_FREE",
+    "resource_categories": [
+      "AI_TOOLS"
+    ],
+    "source_name": "NodeSeek",
+    "source_url": "https://www.nodeseek.com/post-1037813-1",
+    "related_source_urls": [
+      "https://muse.ai/join"
+    ],
+    "author": "cn0514",
+    "published_at": "2026-11-07T09:02:13Z",
+    "first_seen_at": "2026-11-07T09:07:29Z",
+    "last_seen_at": "2026-11-07T09:07:29Z",
+    "expires_at": null,
+    "price": null,
+    "original_price": null,
+    "currency": null,
+    "billing_period": null,
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "AI_TOOLS",
+      "daily"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 25,
+    "value_score": 70,
+    "risk_score": 10,
+    "verification_status": "NEEDS_REVIEW",
+    "deal_status": "ACTIVE",
+    "fingerprint": "ee8311b583ec30f48f07f07eac9ed7faac131fc4533d6cac2ec918b4129f757e"
+  },
+  {
+    "id": 2,
+    "title": "【TQ/NQ】Tamago Network 「HKT.NAT.500M.VPS.6」Free · 全翻倍款",
+    "summary": "服务器配置CPUCores2vCPUAmountofRAM1024MBDiskSpace16GBBandwidth600GBNetworkRate2000MbpsIPv4回程IPv4大包回程IPv6回程UDP回程教育网回程国际互联单线程测速报告链接：https://tcpquality.ibsgss.uk/r/y_",
+    "description": "服务器配置CPUCores2vCPUAmountofRAM1024MBDiskSpace16GBBandwidth600GBNetworkRate2000MbpsIPv4回程IPv4大包回程IPv6回程UDP回程教育网回程国际互联单线程测速报告链接：https://tcpquality.ibsgss.uk/r/y_",
+    "deal_type": "LIMITED_FREE",
+    "resource_categories": [
+      "VPS_CLOUD",
+      "HARDWARE",
+      "EDUCATION"
+    ],
+    "source_name": "NodeSeek",
+    "source_url": "https://www.nodeseek.com/post-1037811-1",
+    "related_source_urls": [
+      "https://tcpquality.ibsgss.uk/r/y_"
+    ],
+    "author": "caigouzi",
+    "published_at": "2026-11-07T09:01:30Z",
+    "first_seen_at": "2026-11-07T09:07:29Z",
+    "last_seen_at": "2026-11-07T09:07:29Z",
+    "expires_at": null,
+    "price": null,
+    "original_price": null,
+    "currency": null,
+    "billing_period": null,
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "VPS_CLOUD",
+      "HARDWARE",
+      "EDUCATION",
+      "review"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 25,
+    "value_score": 70,
+    "risk_score": 10,
+    "verification_status": "NEEDS_REVIEW",
+    "deal_status": "ACTIVE",
+    "fingerprint": "7df23517e75aa97764faf4d5a0318c8d358a646d73fab71e015ad501b14ee5a3"
+  }
+]

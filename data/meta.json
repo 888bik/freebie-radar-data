@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-07T22:17:05Z",
-  "total": 22,
+  "generated_at": "2026-11-08T00:17:11Z",
+  "total": 23,
   "by_deal_type": {
-    "LIMITED_FREE": 15,
+    "LIMITED_FREE": 16,
     "DISCOUNT": 7
   },
   "by_category": {
+    "AI_TOOLS": 8,
     "VPS_CLOUD": 1,
     "HARDWARE": 3,
     "NETWORK": 7,
-    "AI_TOOLS": 7,
     "DIGITAL_MEMBERSHIP": 3,
     "GAMES": 2,
     "EDUCATION": 2,

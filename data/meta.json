@@ -1,12 +1,14 @@
 {
-  "generated_at": "2026-11-08T14:17:05Z",
-  "total": 52,
+  "generated_at": "2026-11-08T16:17:32Z",
+  "total": 54,
   "by_deal_type": {
-    "LIMITED_FREE": 41,
+    "LIMITED_FREE": 43,
     "FREE": 2,
     "DISCOUNT": 9
   },
   "by_category": {
+    "NETWORK": 14,
+    "DIGITAL_MEMBERSHIP": 6,
     "OTHERS": 14,
     "AI_TOOLS": 24,
     "HARDWARE": 6,
@@ -15,8 +17,6 @@
     "DOMAIN_NETWORK": 1,
     "DEV_TOOLS": 12,
     "STORAGE": 3,
-    "DIGITAL_MEMBERSHIP": 5,
-    "NETWORK": 12,
     "GAMES": 6,
     "SHOPPING": 1
   },

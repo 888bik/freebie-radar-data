@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-11-08T02:17:04Z",
-  "total": 25,
+  "generated_at": "2026-11-08T04:17:30Z",
+  "total": 28,
   "by_deal_type": {
-    "DISCOUNT": 8,
-    "LIMITED_FREE": 17
+    "LIMITED_FREE": 20,
+    "DISCOUNT": 8
   },
   "by_category": {
+    "OTHERS": 9,
     "AI_TOOLS": 10,
     "DEV_TOOLS": 4,
     "VPS_CLOUD": 1,
@@ -13,8 +14,7 @@
     "NETWORK": 7,
     "DIGITAL_MEMBERSHIP": 3,
     "GAMES": 2,
-    "EDUCATION": 2,
-    "OTHERS": 6
+    "EDUCATION": 2
   },
   "version": "0.1.0",
   "data_retention_days": 7

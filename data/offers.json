@@ -1,5 +1,47 @@
 [
   {
+    "id": 56,
+    "title": "10r 收一个V2EX邀请码",
+    "summary": "参考文献：https://www.nodeseek.com/post-1040630-1参考文献：https://www.nodeseek.com/post-1040581-1",
+    "description": "参考文献：https://www.nodeseek.com/post-1040630-1参考文献：https://www.nodeseek.com/post-1040581-1",
+    "deal_type": "LIMITED_FREE",
+    "resource_categories": [
+      "OTHERS"
+    ],
+    "source_name": "NodeSeek",
+    "source_url": "https://www.nodeseek.com/post-1040639-1",
+    "related_source_urls": [
+      "https://www.nodeseek.com/post-1040630-1参考文献：https://www.nodeseek.com/post-1040581-1"
+    ],
+    "author": "nettest",
+    "published_at": "2026-11-08T19:56:57Z",
+    "first_seen_at": "2026-11-08T20:17:04Z",
+    "last_seen_at": "2026-11-08T20:17:04Z",
+    "expires_at": null,
+    "price": null,
+    "original_price": null,
+    "currency": null,
+    "billing_period": null,
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "OTHERS",
+      "trade"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 25,
+    "value_score": 70,
+    "risk_score": 10,
+    "verification_status": "NEEDS_REVIEW",
+    "deal_status": "ACTIVE",
+    "fingerprint": "937168a188b7488b40b15400886d56e6d4ea3737e61f8252c0df27e685b51f8a"
+  },
+  {
     "id": 55,
     "title": "01Router：一个 API 接入视频、图片、音频和聊天模型",
     "summary": "最近在做多媒体 AI 产品集成，发现不同模型和供应商的接口差异会增加维护成本。\r\n\r\n01Router 提供一个统一 API ，可接入视频、图片、音频和聊天模型，也可以按预算和质量选择模型与供应商。对需要快速试用不同模型的开发者，可能会更方便。\r\n\r\n产品同时提供 Web Studio 和 API 接入，定价模式为 freemium ，最低价格为 $10 / 1,000 credits 。\r\n\r\n官网：[01Router]( https://01router.com/)",

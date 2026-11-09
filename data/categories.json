@@ -12,7 +12,7 @@
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 25
+    "count": 26
   },
   {
     "id": "DEV_TOOLS",
@@ -42,12 +42,12 @@
   {
     "id": "NETWORK",
     "name": "网络 / 流量 / 代理",
-    "count": 14
+    "count": 15
   },
   {
     "id": "SHOPPING",
     "name": "购物优惠",
-    "count": 2
+    "count": 3
   },
   {
     "id": "EDUCATION",
@@ -57,6 +57,6 @@
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 21
+    "count": 22
   }
 ]

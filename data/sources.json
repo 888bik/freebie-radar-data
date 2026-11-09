@@ -3,7 +3,7 @@
     "source_id": "nodeseek",
     "name": "NodeSeek",
     "status": "OK",
-    "last_success_at": "2026-11-09T04:17:03Z",
+    "last_success_at": "2026-11-09T06:17:04Z",
     "last_error_at": null,
     "last_error": null,
     "consecutive_failures": 0,
@@ -14,9 +14,9 @@
     "name": "Linux.do",
     "status": "BLOCKED",
     "last_success_at": null,
-    "last_error_at": "2026-11-09T04:17:04Z",
+    "last_error_at": "2026-11-09T06:17:05Z",
     "last_error": "Linux.do BLOCKED: Direct fetch returns Cloudflare 403 'Just a moment...' challenge page (verified by direct curl 2026-11-07); this run's proxied fetch failed with: HTTP 403 Cloudflare challenge page: https://linux.do/latest.rss. No bypass attempted.",
-    "consecutive_failures": 23,
+    "consecutive_failures": 24,
     "last_new_count": 0
   },
   {
@@ -24,9 +24,9 @@
     "name": "V2EX",
     "status": "BLOCKED",
     "last_success_at": "2026-11-08T18:17:10Z",
-    "last_error_at": "2026-11-09T04:17:04Z",
+    "last_error_at": "2026-11-09T06:17:06Z",
     "last_error": "HTTP 403 Cloudflare challenge page: https://www.v2ex.com/api/topics/latest.json",
-    "consecutive_failures": 5,
+    "consecutive_failures": 6,
     "last_new_count": 0
   }
 ]

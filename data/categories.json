@@ -7,17 +7,17 @@
   {
     "id": "DOMAIN_NETWORK",
     "name": "域名 / DNS / SSL / CDN",
-    "count": 2
+    "count": 3
   },
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 50
+    "count": 53
   },
   {
     "id": "DEV_TOOLS",
     "name": "开发工具",
-    "count": 26
+    "count": 29
   },
   {
     "id": "DIGITAL_MEMBERSHIP",
@@ -27,7 +27,7 @@
   {
     "id": "HARDWARE",
     "name": "硬件设备",
-    "count": 10
+    "count": 11
   },
   {
     "id": "GAMES",

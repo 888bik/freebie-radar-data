@@ -2,7 +2,7 @@
   {
     "id": "VPS_CLOUD",
     "name": "VPS / 云服务器 / 云服务",
-    "count": 20
+    "count": 21
   },
   {
     "id": "DOMAIN_NETWORK",
@@ -57,6 +57,6 @@
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 35
+    "count": 37
   }
 ]

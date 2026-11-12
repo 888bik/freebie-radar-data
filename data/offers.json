@@ -1,5 +1,87 @@
 [
   {
+    "id": 221,
+    "title": "老黄下台了！今年黑五活动有点悬了！据说很多机房准备涨价15%了",
+    "summary": "黄仁勋真下台，东南亚和南美机房行业就全死了这些机房90%以上都是中国甲方来租他们是这么玩的：极低预付款和违约金，高额锁定几十上百个机房，用5-7年长约让业主（建设者）去贷款帮他们建设那些业主一看，卧槽，世界前20的互联网巨头给单子、冲啊但是中国甲方就是防着政治变动，才会到处抢地盘，是随时准备毁约的反正加起来几亿美金",
+    "description": "黄仁勋真下台，东南亚和南美机房行业就全死了这些机房90%以上都是中国甲方来租他们是这么玩的：极低预付款和违约金，高额锁定几十上百个机房，用5-7年长约让业主（建设者）去贷款帮他们建设那些业主一看，卧槽，世界前20的互联网巨头给单子、冲啊但是中国甲方就是防着政治变动，才会到处抢地盘，是随时准备毁约的反正加起来几亿美金",
+    "deal_type": "LIMITED_FREE",
+    "resource_categories": [
+      "OTHERS"
+    ],
+    "source_name": "NodeSeek",
+    "source_url": "https://www.nodeseek.com/post-1049959-1",
+    "related_source_urls": [],
+    "author": "suoha",
+    "published_at": "2026-11-12T16:10:30Z",
+    "first_seen_at": "2026-11-12T16:17:04Z",
+    "last_seen_at": "2026-11-12T16:17:04Z",
+    "expires_at": null,
+    "price": null,
+    "original_price": null,
+    "currency": null,
+    "billing_period": null,
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "OTHERS",
+      "daily"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 25,
+    "value_score": 70,
+    "risk_score": 10,
+    "verification_status": "NEEDS_REVIEW",
+    "deal_status": "ACTIVE",
+    "fingerprint": "48aca1e8d2731a4c9c11f26e8885fdeffaf240d313c1cc734fcfe813f4e7739f"
+  },
+  {
+    "id": 222,
+    "title": "大家好，最近上线了一个自己写的 Android App，叫「知己」。",
+    "summary": "大家好，最近上线了一个自己写的 Android App ，叫「知己」。\r\n\r\n核心想法很简单：现在很多 AI 助手要么要登录云端，要么数据到处传，我想要一个真正装在手机里的个人助理。\r\n\r\n它能做什么：\r\n\r\n- 说一句话自动判断并执行：建待办、排日程、记一笔账、存笔记、存技能\r\n- 待办、日程、习惯打卡、记账、笔记、对话都在一个 App 里\r\n- 支持智能体模式（可调用本地工具直接读写你的数据）和纯对话模式\r\n- 周复盘、通知中心、番茄钟、习惯连击等\r\n- 隐私与数据相关（我觉得比较重要）：\r\n  模型用你自己的 OpenAI 兼容接口（ DeepSeek 、通义、Moonshot 、自建都行），费用直接付给服务商，不经过我们\r\n\r\n\r\n官网和下载： https://www.grow365.com.cn/everme/\r\n\r\n目前还在迭代中（当前 v2.1.0 ），欢迎试用反馈，有 bug 或者功能建议都可以提。感谢！",
+    "description": "大家好，最近上线了一个自己写的 Android App ，叫「知己」。\r\n\r\n核心想法很简单：现在很多 AI 助手要么要登录云端，要么数据到处传，我想要一个真正装在手机里的个人助理。\r\n\r\n它能做什么：\r\n\r\n- 说一句话自动判断并执行：建待办、排日程、记一笔账、存笔记、存技能\r\n- 待办、日程、习惯打卡、记账、笔记、对话都在一个 App 里\r\n- 支持智能体模式（可调用本地工具直接读写你的数据）和纯对话模式\r\n- 周复盘、通知中心、番茄钟、习惯连击等\r\n- 隐私与数据相关（我觉得比较重要）：\r\n  模型用你自己的 OpenAI 兼容接口（ DeepSeek 、通义、Moonshot 、自建都行），费用直接付给服务商，不经过我们\r\n\r\n\r\n官网和下载： https://www.grow365.com.cn/everme/\r\n\r\n目前还在迭代中（当前 v2.1.0 ），欢迎试用反馈，有 bug 或者功能建议都可以提。感谢！",
+    "deal_type": "LIMITED_FREE",
+    "resource_categories": [
+      "AI_TOOLS"
+    ],
+    "source_name": "V2EX",
+    "source_url": "https://www.v2ex.com/t/1256621",
+    "related_source_urls": [
+      "https://www.grow365.com.cn/everme"
+    ],
+    "author": "lusenbao",
+    "published_at": "2026-11-12T15:39:07Z",
+    "first_seen_at": "2026-11-12T16:17:05Z",
+    "last_seen_at": "2026-11-12T16:17:05Z",
+    "expires_at": null,
+    "price": null,
+    "original_price": null,
+    "currency": null,
+    "billing_period": null,
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "AI_TOOLS",
+      "create"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 55,
+    "value_score": 70,
+    "risk_score": 10,
+    "verification_status": "OK",
+    "deal_status": "ACTIVE",
+    "fingerprint": "17a288c5c644c7c2a594b53fcc121679a3078230e6f4e0b4801617b136015dee"
+  },
+  {
     "id": 217,
     "title": "ISIF 线路优化机 冻结计费及到期时间顺延公告",
     "summary": "拉完了尊敬的客户：因部分客户涉嫌利用我们的服务从事灰黑产等违法违规活动，我们已收到由上游供应商送达的网信办通报。受相关监管及上游处置等外部不可控因素影响，亚太地区中国大陆优化方向的相关80、443端口通信此前已被阻断。我们已多次与相关部门沟通处理。目前，相关优化线路仍存在TCP/UDP通信阻断，已对该方向的正常网络",
@@ -131,11 +213,13 @@
     ],
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1256583",
-    "related_source_urls": [],
+    "related_source_urls": [
+      "https://www.v2ex.com/t/1256583"
+    ],
     "author": "d7101120120",
     "published_at": "2026-11-12T12:34:45Z",
     "first_seen_at": "2026-11-12T14:17:11Z",
-    "last_seen_at": "2026-11-12T14:17:11Z",
+    "last_seen_at": "2026-11-12T16:17:05Z",
     "expires_at": null,
     "price": 20.0,
     "original_price": null,

@@ -12,12 +12,12 @@
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 69
+    "count": 71
   },
   {
     "id": "DEV_TOOLS",
     "name": "开发工具",
-    "count": 43
+    "count": 45
   },
   {
     "id": "DIGITAL_MEMBERSHIP",
@@ -37,7 +37,7 @@
   {
     "id": "STORAGE",
     "name": "存储 / 网盘",
-    "count": 14
+    "count": 15
   },
   {
     "id": "NETWORK",

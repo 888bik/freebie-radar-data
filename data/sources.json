@@ -3,30 +3,30 @@
     "source_id": "nodeseek",
     "name": "NodeSeek",
     "status": "OK",
-    "last_success_at": "2026-11-13T04:17:04Z",
-    "last_error_at": "2026-11-12T06:17:28Z",
+    "last_success_at": "2026-11-13T08:17:10Z",
+    "last_error_at": "2026-11-13T06:17:17Z",
     "last_error": "fetch failed after 3 attempts: https://rss.nodeseek.com/ ([SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011))",
     "consecutive_failures": 0,
-    "last_new_count": 3
+    "last_new_count": 4
   },
   {
     "source_id": "linuxdo",
     "name": "Linux.do",
     "status": "BLOCKED",
     "last_success_at": null,
-    "last_error_at": "2026-11-13T04:17:04Z",
+    "last_error_at": "2026-11-13T08:17:11Z",
     "last_error": "Linux.do BLOCKED: Direct fetch returns Cloudflare 403 'Just a moment...' challenge page (verified by direct curl 2026-11-07); this run's proxied fetch failed with: HTTP 403 Cloudflare challenge page: https://linux.do/latest.rss. No bypass attempted.",
-    "consecutive_failures": 71,
+    "consecutive_failures": 73,
     "last_new_count": 0
   },
   {
     "source_id": "v2ex",
     "name": "V2EX",
     "status": "OK",
-    "last_success_at": "2026-11-13T04:17:04Z",
-    "last_error_at": "2026-11-12T06:17:48Z",
+    "last_success_at": "2026-11-13T08:17:11Z",
+    "last_error_at": "2026-11-13T06:17:53Z",
     "last_error": "fetch failed after 3 attempts: https://www.v2ex.com/api/topics/latest.json ([SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011))",
     "consecutive_failures": 0,
-    "last_new_count": 3
+    "last_new_count": 4
   }
 ]

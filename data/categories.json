@@ -7,22 +7,22 @@
   {
     "id": "DOMAIN_NETWORK",
     "name": "域名 / DNS / SSL / CDN",
-    "count": 12
+    "count": 13
   },
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 84
+    "count": 86
   },
   {
     "id": "DEV_TOOLS",
     "name": "开发工具",
-    "count": 57
+    "count": 58
   },
   {
     "id": "DIGITAL_MEMBERSHIP",
     "name": "数字会员 / 流媒体订阅",
-    "count": 26
+    "count": 28
   },
   {
     "id": "HARDWARE",
@@ -47,16 +47,16 @@
   {
     "id": "SHOPPING",
     "name": "购物优惠",
-    "count": 6
+    "count": 7
   },
   {
     "id": "EDUCATION",
     "name": "教育 / 课程",
-    "count": 13
+    "count": 14
   },
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 72
+    "count": 76
   }
 ]

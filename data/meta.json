@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-13T18:17:04Z",
-  "total": 276,
+  "generated_at": "2026-11-13T20:17:10Z",
+  "total": 277,
   "by_deal_type": {
+    "LIMITED_FREE": 210,
     "DISCOUNT": 63,
-    "LIMITED_FREE": 209,
     "FREE": 4
   },
   "by_category": {
-    "OTHERS": 83,
+    "OTHERS": 84,
     "VPS_CLOUD": 37,
     "NETWORK": 53,
     "DOMAIN_NETWORK": 16,

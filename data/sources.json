@@ -3,30 +3,30 @@
     "source_id": "nodeseek",
     "name": "NodeSeek",
     "status": "OK",
-    "last_success_at": "2026-11-14T10:17:09Z",
+    "last_success_at": "2026-11-14T12:17:09Z",
     "last_error_at": "2026-11-14T06:17:18Z",
     "last_error": "fetch failed after 3 attempts: https://rss.nodeseek.com/ ([SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011))",
     "consecutive_failures": 0,
-    "last_new_count": 2
+    "last_new_count": 1
   },
   {
     "source_id": "linuxdo",
     "name": "Linux.do",
     "status": "BLOCKED",
     "last_success_at": null,
-    "last_error_at": "2026-11-14T10:17:10Z",
+    "last_error_at": "2026-11-14T12:17:09Z",
     "last_error": "Linux.do BLOCKED: Direct fetch returns Cloudflare 403 'Just a moment...' challenge page (verified by direct curl 2026-11-07); this run's proxied fetch failed with: HTTP 403 Cloudflare challenge page: https://linux.do/latest.rss. No bypass attempted.",
-    "consecutive_failures": 86,
+    "consecutive_failures": 87,
     "last_new_count": 0
   },
   {
     "source_id": "v2ex",
     "name": "V2EX",
     "status": "OK",
-    "last_success_at": "2026-11-14T10:17:10Z",
+    "last_success_at": "2026-11-14T12:17:10Z",
     "last_error_at": "2026-11-14T04:17:04Z",
     "last_error": "processing failed: Invalid IPv6 URL",
     "consecutive_failures": 0,
-    "last_new_count": 1
+    "last_new_count": 2
   }
 ]

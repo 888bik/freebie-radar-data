@@ -1,5 +1,45 @@
 [
   {
+    "id": 289,
+    "title": "开发了一个 Windows 版类似 typora 的原生 markdown 编辑器，永久免费，欢迎试用。",
+    "summary": "以 typora 为核心，参考了 Bear 和飞书文档，做了个原生 markdown 编辑器。\r\n主要是不想使用破解的 typora ，其他产品也都不怎么好用，所以造个轮子。\r\n永远免费，也永远不挂广告。纯单机，没有任何联网功能。\r\n欢迎使用。windows store 里搜“如言”。",
+    "description": "以 typora 为核心，参考了 Bear 和飞书文档，做了个原生 markdown 编辑器。\r\n主要是不想使用破解的 typora ，其他产品也都不怎么好用，所以造个轮子。\r\n永远免费，也永远不挂广告。纯单机，没有任何联网功能。\r\n欢迎使用。windows store 里搜“如言”。",
+    "deal_type": "LIMITED_FREE",
+    "resource_categories": [
+      "OTHERS"
+    ],
+    "source_name": "V2EX",
+    "source_url": "https://www.v2ex.com/t/1257003",
+    "related_source_urls": [],
+    "author": "tiyee",
+    "published_at": "2026-11-14T02:12:50Z",
+    "first_seen_at": "2026-11-14T02:17:04Z",
+    "last_seen_at": "2026-11-14T02:17:04Z",
+    "expires_at": null,
+    "price": 0.0,
+    "original_price": null,
+    "currency": "USD",
+    "billing_period": null,
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "OTHERS",
+      "create"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 25,
+    "value_score": 70,
+    "risk_score": 10,
+    "verification_status": "NEEDS_REVIEW",
+    "deal_status": "ACTIVE",
+    "fingerprint": "cdae968a1799b6f21f22e8d1273e8e7772a4cecc3573a522ea819b526af28c60"
+  },
+  {
     "id": 284,
     "title": "阿里云现在咋玩",
     "summary": "一年前嫖的国际站cdt9.9款快到期了，直接续费五年3刀一个月现在是不是可以通过代理折扣申请国内阿里云有老哥分享下经验嘛，给鸡腿",
@@ -96,6 +136,7 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1256984",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1256984",
       "https://img.cdn1.vip/i/6af7a10b8c357_1794613515.webp)",
       "https://img.cdn1.vip/i/6af7a0ab89d7c_1794613419.webp)",
       "https://experthub.tencent.com/?referral_code=WPNXGE"
@@ -103,7 +144,7 @@
     "author": "ToDayMkCode",
     "published_at": "2026-11-13T23:47:09Z",
     "first_seen_at": "2026-11-14T00:17:04Z",
-    "last_seen_at": "2026-11-14T00:17:04Z",
+    "last_seen_at": "2026-11-14T02:17:04Z",
     "expires_at": null,
     "price": null,
     "original_price": null,

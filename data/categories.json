@@ -12,7 +12,7 @@
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 105
+    "count": 104
   },
   {
     "id": "DEV_TOOLS",
@@ -27,12 +27,12 @@
   {
     "id": "HARDWARE",
     "name": "硬件设备",
-    "count": 32
+    "count": 30
   },
   {
     "id": "GAMES",
     "name": "游戏",
-    "count": 16
+    "count": 17
   },
   {
     "id": "STORAGE",
@@ -42,7 +42,7 @@
   {
     "id": "NETWORK",
     "name": "网络 / 流量 / 代理",
-    "count": 59
+    "count": 57
   },
   {
     "id": "SHOPPING",
@@ -57,6 +57,6 @@
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 91
+    "count": 90
   }
 ]

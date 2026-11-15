@@ -228,12 +228,13 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1257265",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1257265",
       "https://standout-trello.com"
     ],
     "author": "yuchuan520",
     "published_at": "2026-11-15T16:20:12Z",
     "first_seen_at": "2026-11-15T18:17:04Z",
-    "last_seen_at": "2026-11-15T18:17:04Z",
+    "last_seen_at": "2026-11-15T20:17:04Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -442,7 +443,7 @@
     "author": "shua6715",
     "published_at": "2026-11-15T13:27:49Z",
     "first_seen_at": "2026-11-15T14:17:10Z",
-    "last_seen_at": "2026-11-15T18:17:04Z",
+    "last_seen_at": "2026-11-15T20:17:04Z",
     "expires_at": null,
     "price": 6.9,
     "original_price": null,
@@ -489,7 +490,7 @@
     "author": "xmagicer",
     "published_at": "2026-11-15T11:50:12Z",
     "first_seen_at": "2026-11-15T12:17:20Z",
-    "last_seen_at": "2026-11-15T18:17:04Z",
+    "last_seen_at": "2026-11-15T20:17:04Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -537,7 +538,7 @@
     "author": "andyiac",
     "published_at": "2026-11-15T11:41:20Z",
     "first_seen_at": "2026-11-15T12:17:20Z",
-    "last_seen_at": "2026-11-15T18:17:04Z",
+    "last_seen_at": "2026-11-15T20:17:04Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -589,7 +590,7 @@
     "author": "xmagicer",
     "published_at": "2026-11-15T10:51:08Z",
     "first_seen_at": "2026-11-15T12:17:20Z",
-    "last_seen_at": "2026-11-15T18:17:04Z",
+    "last_seen_at": "2026-11-15T20:17:04Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -12320,47 +12321,5 @@
     "verification_status": "NEEDS_REVIEW",
     "deal_status": "ACTIVE",
     "fingerprint": "1e456b42dcf19ae3cbe16b8846e819edb586925155ae0fe2bce5c58f884c4bfe"
-  },
-  {
-    "id": 56,
-    "title": "10r 收一个V2EX邀请码",
-    "summary": "参考文献：https://www.nodeseek.com/post-1040630-1参考文献：https://www.nodeseek.com/post-1040581-1",
-    "description": "参考文献：https://www.nodeseek.com/post-1040630-1参考文献：https://www.nodeseek.com/post-1040581-1",
-    "deal_type": "LIMITED_FREE",
-    "resource_categories": [
-      "OTHERS"
-    ],
-    "source_name": "NodeSeek",
-    "source_url": "https://www.nodeseek.com/post-1040639-1",
-    "related_source_urls": [
-      "https://www.nodeseek.com/post-1040630-1参考文献：https://www.nodeseek.com/post-1040581-1"
-    ],
-    "author": "nettest",
-    "published_at": "2026-11-08T19:56:57Z",
-    "first_seen_at": "2026-11-08T20:17:04Z",
-    "last_seen_at": "2026-11-08T20:17:04Z",
-    "expires_at": null,
-    "price": null,
-    "original_price": null,
-    "currency": null,
-    "billing_period": null,
-    "renewal_price": null,
-    "benefits": null,
-    "usage_limits": null,
-    "requirements": null,
-    "region": null,
-    "requires_payment_method": false,
-    "auto_renewal": false,
-    "tags": [
-      "OTHERS",
-      "trade"
-    ],
-    "risk_level": "LOW",
-    "confidence_score": 25,
-    "value_score": 70,
-    "risk_score": 10,
-    "verification_status": "NEEDS_REVIEW",
-    "deal_status": "ACTIVE",
-    "fingerprint": "937168a188b7488b40b15400886d56e6d4ea3737e61f8252c0df27e685b51f8a"
   }
 ]

@@ -2,42 +2,42 @@
   {
     "id": "VPS_CLOUD",
     "name": "VPS / 云服务器 / 云服务",
-    "count": 44
+    "count": 40
   },
   {
     "id": "DOMAIN_NETWORK",
     "name": "域名 / DNS / SSL / CDN",
-    "count": 19
+    "count": 18
   },
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 96
+    "count": 93
   },
   {
     "id": "DEV_TOOLS",
     "name": "开发工具",
-    "count": 74
+    "count": 72
   },
   {
     "id": "DIGITAL_MEMBERSHIP",
     "name": "数字会员 / 流媒体订阅",
-    "count": 39
+    "count": 38
   },
   {
     "id": "HARDWARE",
     "name": "硬件设备",
-    "count": 30
+    "count": 33
   },
   {
     "id": "GAMES",
     "name": "游戏",
-    "count": 14
+    "count": 13
   },
   {
     "id": "STORAGE",
     "name": "存储 / 网盘",
-    "count": 19
+    "count": 18
   },
   {
     "id": "NETWORK",
@@ -52,11 +52,11 @@
   {
     "id": "EDUCATION",
     "name": "教育 / 课程",
-    "count": 19
+    "count": 18
   },
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 87
+    "count": 86
   }
 ]

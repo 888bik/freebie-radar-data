@@ -22,7 +22,7 @@
   {
     "id": "DIGITAL_MEMBERSHIP",
     "name": "数字会员 / 流媒体订阅",
-    "count": 37
+    "count": 39
   },
   {
     "id": "HARDWARE",
@@ -37,17 +37,17 @@
   {
     "id": "STORAGE",
     "name": "存储 / 网盘",
-    "count": 18
+    "count": 19
   },
   {
     "id": "NETWORK",
     "name": "网络 / 流量 / 代理",
-    "count": 52
+    "count": 53
   },
   {
     "id": "SHOPPING",
     "name": "购物优惠",
-    "count": 10
+    "count": 9
   },
   {
     "id": "EDUCATION",
@@ -57,6 +57,6 @@
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 88
+    "count": 87
   }
 ]

@@ -1,5 +1,88 @@
 [
   {
+    "id": 371,
+    "title": "时隔一周终于折腾出来了leaseweb 账号",
+    "summary": "为了开新加坡vps2折腾了很久终于折腾出来了，如果有需要代买的请私信我。哈哈哈哈",
+    "description": "为了开新加坡vps2折腾了很久终于折腾出来了，如果有需要代买的请私信我。哈哈哈哈",
+    "deal_type": "LIMITED_FREE",
+    "resource_categories": [
+      "VPS_CLOUD"
+    ],
+    "source_name": "NodeSeek",
+    "source_url": "https://www.nodeseek.com/post-1057684-1",
+    "related_source_urls": [],
+    "author": "黄豆豆",
+    "published_at": "2026-11-16T08:16:08Z",
+    "first_seen_at": "2026-11-16T08:17:05Z",
+    "last_seen_at": "2026-11-16T08:17:05Z",
+    "expires_at": null,
+    "price": null,
+    "original_price": null,
+    "currency": null,
+    "billing_period": null,
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "VPS_CLOUD",
+      "daily"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 25,
+    "value_score": 70,
+    "risk_score": 25,
+    "verification_status": "NEEDS_REVIEW",
+    "deal_status": "ACTIVE",
+    "fingerprint": "58b085981ed82bd921dcb0ce08cb7201e4b7d06b16e3508a4f5b2d63410428cf"
+  },
+  {
+    "id": 372,
+    "title": "[送码] 插件新加了功能",
+    "summary": "续 https://v2ex.com/t/1256333\r\n \r\n 送码帖只要在评论区评论用了哪个兑换码，就可以很方便的知道哪个用了兑换码，就不用再一个一个的尝试了\r\n \r\n ![](https://i.imgur.com/o00FQEA.png)",
+    "description": "续 https://v2ex.com/t/1256333\r\n \r\n 送码帖只要在评论区评论用了哪个兑换码，就可以很方便的知道哪个用了兑换码，就不用再一个一个的尝试了\r\n \r\n ![](https://i.imgur.com/o00FQEA.png)",
+    "deal_type": "LIMITED_FREE",
+    "resource_categories": [
+      "OTHERS"
+    ],
+    "source_name": "V2EX",
+    "source_url": "https://www.v2ex.com/t/1257412",
+    "related_source_urls": [
+      "https://v2ex.com/t/1256333",
+      "https://i.imgur.com/o00FQEA.png)"
+    ],
+    "author": "japhetjiu699",
+    "published_at": "2026-11-16T06:46:29Z",
+    "first_seen_at": "2026-11-16T08:17:09Z",
+    "last_seen_at": "2026-11-16T08:17:09Z",
+    "expires_at": null,
+    "price": null,
+    "original_price": null,
+    "currency": null,
+    "billing_period": null,
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "OTHERS",
+      "create"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 25,
+    "value_score": 70,
+    "risk_score": 10,
+    "verification_status": "NEEDS_REVIEW",
+    "deal_status": "ACTIVE",
+    "fingerprint": "7b92fd4bd71cd65d5955d7aea8ea1c25876bba3f71722f96a3a4584832a67ddd"
+  },
+  {
     "id": 365,
     "title": "送muse互助token",
     "summary": "我的邀请码已经满了，机器人还有10几个余额，需要的留下邀请码，晚点按顺序处理。多射点鸡腿给我～",
@@ -12823,54 +12906,5 @@
     "verification_status": "NEEDS_REVIEW",
     "deal_status": "ACTIVE",
     "fingerprint": "174fb9c95bc07a529096cb5a2faa0ee0494a8c424ea478684d2779c17a0e4412"
-  },
-  {
-    "id": 79,
-    "title": "实践出真知 GPT 模型的审美能力完全可以通过好的 Skills 和设计流程来解锁！",
-    "summary": "为了解决 GPT 的审美不稳定的问题，我开发了一款类似 Claude Design 的项目，我起初并没有抱太大希望，觉得可以保证风格统一就好了。在使用 Codex Cli 的 `gpt-6.1-sol` 开发了 [摄影网站]( https://drop-af770064-b43.amery2010.workers.dev/)，结果却惊艳到了我。网站排版更大胆，交互更细腻，如果不说是什么模型做的，可能还会被认为是用 Opus 做的网站。此外，我还让其设计了[个人主页]( https://drop-f285c473-61a.amery2010.workers.dev/)，同样风格不在拘泥于传统页面的排版风格。\r\n\r\n如果说 ChatGPT 新系列模型本来就审美在线的话，那我用网上找到的免费的 `agnes-3.0-flash` 模型尝试做了一个[摄影主题的网站]( https://drop-195ab7ba-8f6.amery2010.workers.dev/)，结果同样让人觉得不俗！\r\n\r\n![screenshot]( https://github.com/Amery2010/open-builder/raw/main/public/images/screenshot.png)\r\n\r\n项目开源: [https://github.com/Amery2010/open-builder]( https://github.com/Amery2010/open-builder)，个人使用无限制。\r\n\r\n如果您觉得我说得有些夸大其词，您可以自己下载客户端进行试一试，在没有第三方 API 的情况下，您也可以使用 Codex 、Claude Code 等本地 CLI 进行驱动。\r\n\r\n另外，项目也提供了实验性的 Skills 和 MCP 调用。其中 Skills 是将 Open Builder 项目目前的工作流简化成通用的 skills ，方便在各种平台上直接使用，但能力上无法到达能力特化过的 App 。",
-    "description": "为了解决 GPT 的审美不稳定的问题，我开发了一款类似 Claude Design 的项目，我起初并没有抱太大希望，觉得可以保证风格统一就好了。在使用 Codex Cli 的 `gpt-6.1-sol` 开发了 [摄影网站]( https://drop-af770064-b43.amery2010.workers.dev/)，结果却惊艳到了我。网站排版更大胆，交互更细腻，如果不说是什么模型做的，可能还会被认为是用 Opus 做的网站。此外，我还让其设计了[个人主页]( https://drop-f285c473-61a.amery2010.workers.dev/)，同样风格不在拘泥于传统页面的排版风格。\r\n\r\n如果说 ChatGPT 新系列模型本来就审美在线的话，那我用网上找到的免费的 `agnes-3.0-flash` 模型尝试做了一个[摄影主题的网站]( https://drop-195ab7ba-8f6.amery2010.workers.dev/)，结果同样让人觉得不俗！\r\n\r\n![screenshot]( https://github.com/Amery2010/open-builder/raw/main/public/images/screenshot.png)\r\n\r\n项目开源: [https://github.com/Amery2010/open-builder]( https://github.com/Amery2010/open-builder)，个人使用无限制。\r\n\r\n如果您觉得我说得有些夸大其词，您可以自己下载客户端进行试一试，在没有第三方 API 的情况下，您也可以使用 Codex 、Claude Code 等本地 CLI 进行驱动。\r\n\r\n另外，项目也提供了实验性的 Skills 和 MCP 调用。其中 Skills 是将 Open Builder 项目目前的工作流简化成通用的 skills ，方便在各种平台上直接使用，但能力上无法到达能力特化过的 App 。",
-    "deal_type": "LIMITED_FREE",
-    "resource_categories": [
-      "AI_TOOLS",
-      "DEV_TOOLS"
-    ],
-    "source_name": "V2EX",
-    "source_url": "https://www.v2ex.com/t/1255595",
-    "related_source_urls": [
-      "https://drop-af770064-b43.amery2010.workers.dev/)，结果却惊艳到了我。网站排版更大胆，交互更细腻，如果不说是什么模型做的，可能还会被认为是用",
-      "https://drop-f285c473-61a.amery2010.workers.dev/)，同样风格不在拘泥于传统页面的排版风格。",
-      "https://drop-195ab7ba-8f6.amery2010.workers.dev/)，结果同样让人觉得不俗！",
-      "https://github.com/Amery2010/open-builder/raw/main/public/images/screenshot.png)",
-      "https://github.com/Amery2010/open-builder](",
-      "https://github.com/Amery2010/open-builder)，个人使用无限制。"
-    ],
-    "author": "amery2010",
-    "published_at": "2026-11-09T08:01:23Z",
-    "first_seen_at": "2026-11-09T10:17:12Z",
-    "last_seen_at": "2026-11-09T10:17:12Z",
-    "expires_at": null,
-    "price": null,
-    "original_price": null,
-    "currency": null,
-    "billing_period": null,
-    "renewal_price": null,
-    "benefits": null,
-    "usage_limits": null,
-    "requirements": null,
-    "region": null,
-    "requires_payment_method": false,
-    "auto_renewal": false,
-    "tags": [
-      "AI_TOOLS",
-      "DEV_TOOLS",
-      "create"
-    ],
-    "risk_level": "LOW",
-    "confidence_score": 25,
-    "value_score": 70,
-    "risk_score": 10,
-    "verification_status": "NEEDS_REVIEW",
-    "deal_status": "ACTIVE",
-    "fingerprint": "bd08307422bf313d2329b17ca91da690dda9ae3bad1121fbf9a228119b005b78"
   }
 ]

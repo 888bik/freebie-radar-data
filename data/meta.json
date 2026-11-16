@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-16T16:17:10Z",
-  "total": 292,
+  "generated_at": "2026-11-16T18:17:04Z",
+  "total": 294,
   "by_deal_type": {
+    "LIMITED_FREE": 220,
     "DISCOUNT": 71,
-    "LIMITED_FREE": 218,
     "FREE": 3
   },
   "by_category": {
-    "OTHERS": 90,
-    "AI_TOOLS": 99,
+    "OTHERS": 92,
+    "AI_TOOLS": 100,
     "STORAGE": 18,
     "DOMAIN_NETWORK": 22,
     "HARDWARE": 36,
@@ -16,7 +16,7 @@
     "DIGITAL_MEMBERSHIP": 36,
     "EDUCATION": 20,
     "DEV_TOOLS": 81,
-    "NETWORK": 51,
+    "NETWORK": 50,
     "GAMES": 17,
     "VPS_CLOUD": 42
   },

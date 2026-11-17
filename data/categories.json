@@ -2,12 +2,12 @@
   {
     "id": "VPS_CLOUD",
     "name": "VPS / 云服务器 / 云服务",
-    "count": 42
+    "count": 40
   },
   {
     "id": "DOMAIN_NETWORK",
     "name": "域名 / DNS / SSL / CDN",
-    "count": 22
+    "count": 23
   },
   {
     "id": "AI_TOOLS",
@@ -27,7 +27,7 @@
   {
     "id": "HARDWARE",
     "name": "硬件设备",
-    "count": 38
+    "count": 37
   },
   {
     "id": "GAMES",
@@ -37,12 +37,12 @@
   {
     "id": "STORAGE",
     "name": "存储 / 网盘",
-    "count": 18
+    "count": 17
   },
   {
     "id": "NETWORK",
     "name": "网络 / 流量 / 代理",
-    "count": 50
+    "count": 49
   },
   {
     "id": "SHOPPING",

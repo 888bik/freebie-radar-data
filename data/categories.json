@@ -22,12 +22,12 @@
   {
     "id": "DIGITAL_MEMBERSHIP",
     "name": "数字会员 / 流媒体订阅",
-    "count": 41
+    "count": 42
   },
   {
     "id": "HARDWARE",
     "name": "硬件设备",
-    "count": 36
+    "count": 35
   },
   {
     "id": "GAMES",
@@ -42,7 +42,7 @@
   {
     "id": "NETWORK",
     "name": "网络 / 流量 / 代理",
-    "count": 52
+    "count": 51
   },
   {
     "id": "SHOPPING",

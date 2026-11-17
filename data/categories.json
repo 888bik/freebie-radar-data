@@ -12,12 +12,12 @@
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 102
+    "count": 101
   },
   {
     "id": "DEV_TOOLS",
     "name": "开发工具",
-    "count": 83
+    "count": 81
   },
   {
     "id": "DIGITAL_MEMBERSHIP",
@@ -27,12 +27,12 @@
   {
     "id": "HARDWARE",
     "name": "硬件设备",
-    "count": 36
+    "count": 38
   },
   {
     "id": "GAMES",
     "name": "游戏",
-    "count": 16
+    "count": 15
   },
   {
     "id": "STORAGE",
@@ -42,7 +42,7 @@
   {
     "id": "NETWORK",
     "name": "网络 / 流量 / 代理",
-    "count": 51
+    "count": 50
   },
   {
     "id": "SHOPPING",
@@ -52,7 +52,7 @@
   {
     "id": "EDUCATION",
     "name": "教育 / 课程",
-    "count": 20
+    "count": 19
   },
   {
     "id": "OTHERS",

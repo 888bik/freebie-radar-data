@@ -2,22 +2,22 @@
   {
     "id": "VPS_CLOUD",
     "name": "VPS / 云服务器 / 云服务",
-    "count": 46
+    "count": 47
   },
   {
     "id": "DOMAIN_NETWORK",
     "name": "域名 / DNS / SSL / CDN",
-    "count": 26
+    "count": 27
   },
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 114
+    "count": 115
   },
   {
     "id": "DEV_TOOLS",
     "name": "开发工具",
-    "count": 91
+    "count": 92
   },
   {
     "id": "DIGITAL_MEMBERSHIP",
@@ -52,11 +52,11 @@
   {
     "id": "EDUCATION",
     "name": "教育 / 课程",
-    "count": 21
+    "count": 22
   },
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 76
+    "count": 73
   }
 ]

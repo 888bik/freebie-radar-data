@@ -1,5 +1,49 @@
 [
   {
+    "id": 519,
+    "title": "永久免费懒猫us-pro 9299/cmin2 ¥68",
+    "summary": "配置1核/512MB/2048MB带宽1000Mbps流量300GB永久免费，需要vip2NodeQuality链接:https://nodequality.com/r/32ZrvIJDfeZnBBH7CA3MRBiSIAN6Z16G",
+    "description": "配置1核/512MB/2048MB带宽1000Mbps流量300GB永久免费，需要vip2NodeQuality链接:https://nodequality.com/r/32ZrvIJDfeZnBBH7CA3MRBiSIAN6Z16G",
+    "deal_type": "FREE",
+    "resource_categories": [
+      "DIGITAL_MEMBERSHIP",
+      "NETWORK"
+    ],
+    "source_name": "NodeSeek",
+    "source_url": "https://www.nodeseek.com/post-1066598-1",
+    "related_source_urls": [
+      "https://nodequality.com/r/32ZrvIJDfeZnBBH7CA3MRBiSIAN6Z16G"
+    ],
+    "author": "fdsfsa",
+    "published_at": "2026-11-19T16:16:04Z",
+    "first_seen_at": "2026-11-19T16:17:14Z",
+    "last_seen_at": "2026-11-19T16:17:14Z",
+    "expires_at": null,
+    "price": 68.0,
+    "original_price": null,
+    "currency": "CNY",
+    "billing_period": null,
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "DIGITAL_MEMBERSHIP",
+      "NETWORK",
+      "trade"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 50,
+    "value_score": 90,
+    "risk_score": 10,
+    "verification_status": "OK",
+    "deal_status": "ACTIVE",
+    "fingerprint": "d7e1a6349808abf6812c0b3f16c73f6505f5152f07acf48e2e977ceb41b5edf1"
+  },
+  {
     "id": 515,
     "title": "谷歌官价 Pro 有几率刷出 $1.99 首月价",
     "summary": "美区官价号（原价$19.99/月），今天打开GoogleOne订阅页，刷出了$1.99首月价，次月恢复$19.99。是正经付费Pro，Antigravity里Claude5.5、Gemini4Neon都能选。有官价号的可以去订阅页瞄一眼，刷到就是赚到，记得涨价前取消。",
@@ -53,12 +97,13 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258379",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258379",
       "https://xiaoyangge1993.github.io/twinform/)"
     ],
     "author": "DevYuFeng",
     "published_at": "2026-11-19T13:49:39Z",
     "first_seen_at": "2026-11-19T14:17:05Z",
-    "last_seen_at": "2026-11-19T14:17:05Z",
+    "last_seen_at": "2026-11-19T16:17:20Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -98,6 +143,7 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258376",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258376",
       "https://syndesk.app/articles/share-your-desk/%E5%B7%A5%E4%BD%9C%E5%8C%BA-%E7%94%A8%E6%88%B7%E5%AE%9E%E6%8B%8D.png)",
       "https://syndesk.app/articles/share-your-desk/%E7%94%B5%E8%84%91%E5%B8%83%E5%B1%80-%E7%94%A8%E6%88%B7%E5%AE%9E%E6%8B%8D.png)",
       "https://syndesk.app/",
@@ -108,7 +154,7 @@
     "author": "createitv",
     "published_at": "2026-11-19T13:29:01Z",
     "first_seen_at": "2026-11-19T14:17:05Z",
-    "last_seen_at": "2026-11-19T14:17:05Z",
+    "last_seen_at": "2026-11-19T16:17:20Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -151,13 +197,14 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258369",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258369",
       "https://alapha888.github.io/yt-transcript-export-privacy",
       "https://microsoftedge.microsoft.com/addons/detail/glplffbabkidmgboinalcdjelenheall"
     ],
     "author": "bluesky1001",
     "published_at": "2026-11-19T12:49:04Z",
     "first_seen_at": "2026-11-19T14:17:05Z",
-    "last_seen_at": "2026-11-19T14:17:05Z",
+    "last_seen_at": "2026-11-19T16:17:20Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -286,7 +333,7 @@
     "author": "xzhuming1",
     "published_at": "2026-11-19T11:20:48Z",
     "first_seen_at": "2026-11-19T12:17:12Z",
-    "last_seen_at": "2026-11-19T14:17:05Z",
+    "last_seen_at": "2026-11-19T16:17:20Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -12902,88 +12949,5 @@
     "verification_status": "NEEDS_REVIEW",
     "deal_status": "ACTIVE",
     "fingerprint": "1694869c6f27eb39c1a2b2bcc72b1d9c83775ca278036f31a06f09b1cdb09e54"
-  },
-  {
-    "id": 221,
-    "title": "老黄下台了！今年黑五活动有点悬了！据说很多机房准备涨价15%了",
-    "summary": "黄仁勋真下台，东南亚和南美机房行业就全死了这些机房90%以上都是中国甲方来租他们是这么玩的：极低预付款和违约金，高额锁定几十上百个机房，用5-7年长约让业主（建设者）去贷款帮他们建设那些业主一看，卧槽，世界前20的互联网巨头给单子、冲啊但是中国甲方就是防着政治变动，才会到处抢地盘，是随时准备毁约的反正加起来几亿美金",
-    "description": "黄仁勋真下台，东南亚和南美机房行业就全死了这些机房90%以上都是中国甲方来租他们是这么玩的：极低预付款和违约金，高额锁定几十上百个机房，用5-7年长约让业主（建设者）去贷款帮他们建设那些业主一看，卧槽，世界前20的互联网巨头给单子、冲啊但是中国甲方就是防着政治变动，才会到处抢地盘，是随时准备毁约的反正加起来几亿美金",
-    "deal_type": "LIMITED_FREE",
-    "resource_categories": [
-      "OTHERS"
-    ],
-    "source_name": "NodeSeek",
-    "source_url": "https://www.nodeseek.com/post-1049959-1",
-    "related_source_urls": [],
-    "author": "suoha",
-    "published_at": "2026-11-12T16:10:30Z",
-    "first_seen_at": "2026-11-12T16:17:04Z",
-    "last_seen_at": "2026-11-12T16:17:04Z",
-    "expires_at": null,
-    "price": null,
-    "original_price": null,
-    "currency": null,
-    "billing_period": null,
-    "renewal_price": null,
-    "benefits": null,
-    "usage_limits": null,
-    "requirements": null,
-    "region": null,
-    "requires_payment_method": false,
-    "auto_renewal": false,
-    "tags": [
-      "OTHERS",
-      "daily"
-    ],
-    "risk_level": "LOW",
-    "confidence_score": 25,
-    "value_score": 70,
-    "risk_score": 10,
-    "verification_status": "NEEDS_REVIEW",
-    "deal_status": "ACTIVE",
-    "fingerprint": "48aca1e8d2731a4c9c11f26e8885fdeffaf240d313c1cc734fcfe813f4e7739f"
-  },
-  {
-    "id": 222,
-    "title": "大家好，最近上线了一个自己写的 Android App，叫「知己」。",
-    "summary": "大家好，最近上线了一个自己写的 Android App ，叫「知己」。\r\n\r\n核心想法很简单：现在很多 AI 助手要么要登录云端，要么数据到处传，我想要一个真正装在手机里的个人助理。\r\n\r\n它能做什么：\r\n\r\n- 说一句话自动判断并执行：建待办、排日程、记一笔账、存笔记、存技能\r\n- 待办、日程、习惯打卡、记账、笔记、对话都在一个 App 里\r\n- 支持智能体模式（可调用本地工具直接读写你的数据）和纯对话模式\r\n- 周复盘、通知中心、番茄钟、习惯连击等\r\n- 隐私与数据相关（我觉得比较重要）：\r\n  模型用你自己的 OpenAI 兼容接口（ DeepSeek 、通义、Moonshot 、自建都行），费用直接付给服务商，不经过我们\r\n\r\n\r\n官网和下载： https://www.grow365.com.cn/everme/\r\n\r\n目前还在迭代中（当前 v2.1.0 ），欢迎试用反馈，有 bug 或者功能建议都可以提。感谢！",
-    "description": "大家好，最近上线了一个自己写的 Android App ，叫「知己」。\r\n\r\n核心想法很简单：现在很多 AI 助手要么要登录云端，要么数据到处传，我想要一个真正装在手机里的个人助理。\r\n\r\n它能做什么：\r\n\r\n- 说一句话自动判断并执行：建待办、排日程、记一笔账、存笔记、存技能\r\n- 待办、日程、习惯打卡、记账、笔记、对话都在一个 App 里\r\n- 支持智能体模式（可调用本地工具直接读写你的数据）和纯对话模式\r\n- 周复盘、通知中心、番茄钟、习惯连击等\r\n- 隐私与数据相关（我觉得比较重要）：\r\n  模型用你自己的 OpenAI 兼容接口（ DeepSeek 、通义、Moonshot 、自建都行），费用直接付给服务商，不经过我们\r\n\r\n\r\n官网和下载： https://www.grow365.com.cn/everme/\r\n\r\n目前还在迭代中（当前 v2.1.0 ），欢迎试用反馈，有 bug 或者功能建议都可以提。感谢！",
-    "deal_type": "LIMITED_FREE",
-    "resource_categories": [
-      "AI_TOOLS"
-    ],
-    "source_name": "V2EX",
-    "source_url": "https://www.v2ex.com/t/1256621",
-    "related_source_urls": [
-      "https://www.v2ex.com/t/1256621",
-      "https://www.grow365.com.cn/everme"
-    ],
-    "author": "lusenbao",
-    "published_at": "2026-11-12T15:39:07Z",
-    "first_seen_at": "2026-11-12T16:17:05Z",
-    "last_seen_at": "2026-11-13T00:17:10Z",
-    "expires_at": null,
-    "price": null,
-    "original_price": null,
-    "currency": null,
-    "billing_period": null,
-    "renewal_price": null,
-    "benefits": null,
-    "usage_limits": null,
-    "requirements": null,
-    "region": null,
-    "requires_payment_method": false,
-    "auto_renewal": false,
-    "tags": [
-      "AI_TOOLS",
-      "create"
-    ],
-    "risk_level": "LOW",
-    "confidence_score": 55,
-    "value_score": 70,
-    "risk_score": 10,
-    "verification_status": "OK",
-    "deal_status": "ACTIVE",
-    "fingerprint": "17a288c5c644c7c2a594b53fcc121679a3078230e6f4e0b4801617b136015dee"
   }
 ]

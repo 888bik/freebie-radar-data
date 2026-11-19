@@ -12,7 +12,7 @@
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 129
+    "count": 130
   },
   {
     "id": "DEV_TOOLS",
@@ -57,6 +57,6 @@
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 71
+    "count": 70
   }
 ]

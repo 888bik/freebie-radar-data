@@ -1,5 +1,48 @@
 [
   {
+    "id": 623,
+    "title": "网页划线高亮插件 Highlighter：Edge 上 200+ 安装，周活还在涨",
+    "summary": "做了个本地优先的网页划线高亮插件 Highlighter，Edge 上已上架（v0.4.1）。\r\n\r\n做法：选中文字即可高亮，引文锚定——刷新、重访都不会丢；备注、搜索、导出都免费；支持导入 Weava 的 CSV。数据只存浏览器本地，不用账号。\r\n\r\n进展（实数，无修饰）：\r\n- 累计安装 206 次（10 月 139、11 月 67）\r\n- 周活 49 → 68 → 70 → 77，四周在涨；日均安装约 4.2 次，无单日 spike\r\n- 评分 / 评论目前都是 0\r\n\r\nPro 是自定义颜色等，$4.49/月，Gumroad 购买后自动发激活钥匙，在侧边栏粘贴激活即可。\r\n\r\n商店：https://microsoftedge.microsoft.com/addons/detail/highlighter/ooocjgnapglfljdgojdoacjdedpaplhe\r\nPro：https://alapha888.gumroad.com/l/gnopod",
+    "description": "做了个本地优先的网页划线高亮插件 Highlighter，Edge 上已上架（v0.4.1）。\r\n\r\n做法：选中文字即可高亮，引文锚定——刷新、重访都不会丢；备注、搜索、导出都免费；支持导入 Weava 的 CSV。数据只存浏览器本地，不用账号。\r\n\r\n进展（实数，无修饰）：\r\n- 累计安装 206 次（10 月 139、11 月 67）\r\n- 周活 49 → 68 → 70 → 77，四周在涨；日均安装约 4.2 次，无单日 spike\r\n- 评分 / 评论目前都是 0\r\n\r\nPro 是自定义颜色等，$4.49/月，Gumroad 购买后自动发激活钥匙，在侧边栏粘贴激活即可。\r\n\r\n商店：https://microsoftedge.microsoft.com/addons/detail/highlighter/ooocjgnapglfljdgojdoacjdedpaplhe\r\nPro：https://alapha888.gumroad.com/l/gnopod",
+    "deal_type": "DISCOUNT",
+    "resource_categories": [
+      "AI_TOOLS"
+    ],
+    "source_name": "V2EX",
+    "source_url": "https://www.v2ex.com/t/1258829",
+    "related_source_urls": [
+      "https://microsoftedge.microsoft.com/addons/detail/highlighter/ooocjgnapglfljdgojdoacjdedpaplhe",
+      "https://alapha888.gumroad.com/l/gnopod"
+    ],
+    "author": "bluesky1001",
+    "published_at": "2026-11-21T17:47:24Z",
+    "first_seen_at": "2026-11-21T18:17:05Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
+    "expires_at": null,
+    "price": 4.49,
+    "original_price": null,
+    "currency": "USD",
+    "billing_period": "monthly",
+    "renewal_price": null,
+    "benefits": null,
+    "usage_limits": null,
+    "requirements": null,
+    "region": null,
+    "requires_payment_method": false,
+    "auto_renewal": false,
+    "tags": [
+      "AI_TOOLS",
+      "create"
+    ],
+    "risk_level": "LOW",
+    "confidence_score": 40,
+    "value_score": 50,
+    "risk_score": 10,
+    "verification_status": "NEEDS_REVIEW",
+    "deal_status": "ACTIVE",
+    "fingerprint": "d62f76dd5942b80c92f76dd80d14755e71f5405d5e7b376caf9d0a07697e0172"
+  },
+  {
     "id": 612,
     "title": "溢价50收来的，溢价50出VPS.Town HKG-A5p 存储型 4h 16g 首发6折款",
     "summary": "4H16G.储存型.HKG-A5p系统盘60g数据盘500G到期2026/12/24续费¥42.00/月剩余价值：46.20+80(500G数据盘买断的费用)从站内大佬klee溢价50收来的，按照原溢价出，自备账号176Push出NQ：https://www.nodeseek.com/post-975075-1",
@@ -96,13 +139,14 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258823",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258823",
       "https://chromewebstore.google.com/detail/bodjcaifciehkjhikophicjkjhalnmdk",
       "https://enterguard.dev"
     ],
     "author": "liuliangsir",
     "published_at": "2026-11-21T15:45:10Z",
     "first_seen_at": "2026-11-21T16:17:08Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": 9.99,
     "original_price": null,
@@ -142,6 +186,7 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258819",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258819",
       "https://raw.githubusercontent.com/earayu/Mingle/main/site/img/agent-zh-light.png)",
       "https://github.com/earayu/Mingle",
       "https://mingle.build/zh"
@@ -149,7 +194,7 @@
     "author": "earyu",
     "published_at": "2026-11-21T15:28:50Z",
     "first_seen_at": "2026-11-21T16:17:08Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -190,13 +235,14 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258818",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258818",
       "https://apps.apple.com/app/xalfred/id6832190813)",
       "https://youtube.com/shorts/DDG3gxM3Y9E)"
     ],
     "author": "xiangdong1987",
     "published_at": "2026-11-21T15:14:27Z",
     "first_seen_at": "2026-11-21T16:17:08Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -238,12 +284,13 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258813",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258813",
       "https://okjlpt.com"
     ],
     "author": "melowwxfakenews",
     "published_at": "2026-11-21T14:54:35Z",
     "first_seen_at": "2026-11-21T16:17:08Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -365,12 +412,13 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258804",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258804",
       "https://dailygame.gg/"
     ],
     "author": "Errat1c",
     "published_at": "2026-11-21T13:27:33Z",
     "first_seen_at": "2026-11-21T16:17:08Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -413,12 +461,13 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258803",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258803",
       "https://transparentgifmaker.online"
     ],
     "author": "rickylee",
     "published_at": "2026-11-21T13:24:33Z",
     "first_seen_at": "2026-11-21T16:17:08Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": 4.99,
     "original_price": null,
@@ -459,6 +508,7 @@
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258802",
     "related_source_urls": [
+      "https://www.v2ex.com/t/1258802",
       "https://github.com/chenhg5/myco",
       "https://picui.ogmua.cn/s1/2026/11/21/6b01981de9bf3.webp)](https://picui.ogmua.cn/s1/2026/11/21/6b01981de9bf3.webp)",
       "https://picui.ogmua.cn/s1/2026/11/21/6b0197712cc0d.webp)](https://picui.ogmua.cn/s1/2026/11/21/6b0197712cc0d.webp)",
@@ -468,7 +518,7 @@
     "author": "plane",
     "published_at": "2026-11-21T13:12:11Z",
     "first_seen_at": "2026-11-21T16:17:08Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -509,11 +559,13 @@
     ],
     "source_name": "V2EX",
     "source_url": "https://www.v2ex.com/t/1258800",
-    "related_source_urls": [],
+    "related_source_urls": [
+      "https://www.v2ex.com/t/1258800"
+    ],
     "author": "oday0312",
     "published_at": "2026-11-21T13:08:38Z",
     "first_seen_at": "2026-11-21T16:17:08Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -643,7 +695,7 @@
     "author": "kaihli",
     "published_at": "2026-11-21T11:54:23Z",
     "first_seen_at": "2026-11-21T12:17:12Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": null,
     "original_price": null,
@@ -690,7 +742,7 @@
     "author": "zdp072",
     "published_at": "2026-11-21T10:43:27Z",
     "first_seen_at": "2026-11-21T12:17:12Z",
-    "last_seen_at": "2026-11-21T16:17:08Z",
+    "last_seen_at": "2026-11-21T18:17:05Z",
     "expires_at": null,
     "price": null,
     "original_price": null,

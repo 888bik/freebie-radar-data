@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:17:10Z",
+  "generated_at": "2026-11-21T02:17:04Z",
   "total": 296,
   "by_deal_type": {
     "LIMITED_FREE": 213,
@@ -7,9 +7,9 @@
     "FREE": 3
   },
   "by_category": {
-    "AI_TOOLS": 134,
+    "AI_TOOLS": 135,
     "STORAGE": 19,
-    "OTHERS": 73,
+    "OTHERS": 72,
     "VPS_CLOUD": 59,
     "DIGITAL_MEMBERSHIP": 42,
     "SHOPPING": 7,

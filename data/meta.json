@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-21T22:17:03Z",
-  "total": 311,
+  "generated_at": "2026-11-22T00:17:04Z",
+  "total": 313,
   "by_deal_type": {
-    "DISCOUNT": 81,
-    "LIMITED_FREE": 228,
+    "DISCOUNT": 82,
+    "LIMITED_FREE": 229,
     "FREE": 2
   },
   "by_category": {
-    "OTHERS": 76,
+    "NETWORK": 54,
+    "OTHERS": 77,
     "AI_TOOLS": 150,
     "DEV_TOOLS": 102,
-    "NETWORK": 53,
     "HARDWARE": 32,
     "VPS_CLOUD": 60,
     "STORAGE": 25,

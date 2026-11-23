@@ -12,12 +12,12 @@
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 160
+    "count": 159
   },
   {
     "id": "DEV_TOOLS",
     "name": "开发工具",
-    "count": 113
+    "count": 111
   },
   {
     "id": "DIGITAL_MEMBERSHIP",
@@ -27,7 +27,7 @@
   {
     "id": "HARDWARE",
     "name": "硬件设备",
-    "count": 34
+    "count": 32
   },
   {
     "id": "GAMES",
@@ -52,7 +52,7 @@
   {
     "id": "EDUCATION",
     "name": "教育 / 课程",
-    "count": 31
+    "count": 30
   },
   {
     "id": "OTHERS",

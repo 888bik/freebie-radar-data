@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:17:15Z",
+  "generated_at": "2026-11-23T18:17:05Z",
   "total": 332,
   "by_deal_type": {
     "LIMITED_FREE": 236,
@@ -8,10 +8,10 @@
   },
   "by_category": {
     "OTHERS": 68,
+    "AI_TOOLS": 160,
+    "DEV_TOOLS": 113,
     "VPS_CLOUD": 63,
     "DOMAIN_NETWORK": 33,
-    "AI_TOOLS": 160,
-    "DEV_TOOLS": 112,
     "DIGITAL_MEMBERSHIP": 50,
     "STORAGE": 30,
     "EDUCATION": 31,

@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-24T20:17:04Z",
-  "total": 332,
+  "generated_at": "2026-11-24T22:17:10Z",
+  "total": 337,
   "by_deal_type": {
-    "LIMITED_FREE": 239,
+    "LIMITED_FREE": 244,
     "DISCOUNT": 86,
     "FREE": 7
   },
   "by_category": {
-    "AI_TOOLS": 159,
-    "DIGITAL_MEMBERSHIP": 55,
+    "AI_TOOLS": 163,
+    "DIGITAL_MEMBERSHIP": 56,
+    "OTHERS": 73,
     "NETWORK": 66,
     "EDUCATION": 30,
-    "OTHERS": 72,
     "DEV_TOOLS": 105,
     "DOMAIN_NETWORK": 33,
     "GAMES": 19,

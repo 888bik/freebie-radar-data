@@ -7,7 +7,7 @@
   {
     "id": "DOMAIN_NETWORK",
     "name": "域名 / DNS / SSL / CDN",
-    "count": 36
+    "count": 35
   },
   {
     "id": "AI_TOOLS",
@@ -27,17 +27,17 @@
   {
     "id": "HARDWARE",
     "name": "硬件设备",
-    "count": 32
+    "count": 31
   },
   {
     "id": "GAMES",
     "name": "游戏",
-    "count": 18
+    "count": 19
   },
   {
     "id": "STORAGE",
     "name": "存储 / 网盘",
-    "count": 32
+    "count": 33
   },
   {
     "id": "NETWORK",
@@ -52,11 +52,11 @@
   {
     "id": "EDUCATION",
     "name": "教育 / 课程",
-    "count": 31
+    "count": 30
   },
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 71
+    "count": 69
   }
 ]

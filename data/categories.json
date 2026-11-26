@@ -2,22 +2,22 @@
   {
     "id": "VPS_CLOUD",
     "name": "VPS / 云服务器 / 云服务",
-    "count": 57
+    "count": 58
   },
   {
     "id": "DOMAIN_NETWORK",
     "name": "域名 / DNS / SSL / CDN",
-    "count": 32
+    "count": 33
   },
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 166
+    "count": 167
   },
   {
     "id": "DEV_TOOLS",
     "name": "开发工具",
-    "count": 100
+    "count": 101
   },
   {
     "id": "DIGITAL_MEMBERSHIP",

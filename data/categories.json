@@ -7,27 +7,27 @@
   {
     "id": "DOMAIN_NETWORK",
     "name": "域名 / DNS / SSL / CDN",
-    "count": 37
+    "count": 35
   },
   {
     "id": "AI_TOOLS",
     "name": "AI 工具 / 大模型",
-    "count": 159
+    "count": 160
   },
   {
     "id": "DEV_TOOLS",
     "name": "开发工具",
-    "count": 102
+    "count": 105
   },
   {
     "id": "DIGITAL_MEMBERSHIP",
     "name": "数字会员 / 流媒体订阅",
-    "count": 66
+    "count": 68
   },
   {
     "id": "HARDWARE",
     "name": "硬件设备",
-    "count": 45
+    "count": 47
   },
   {
     "id": "GAMES",
@@ -37,12 +37,12 @@
   {
     "id": "STORAGE",
     "name": "存储 / 网盘",
-    "count": 35
+    "count": 34
   },
   {
     "id": "NETWORK",
     "name": "网络 / 流量 / 代理",
-    "count": 67
+    "count": 69
   },
   {
     "id": "SHOPPING",
@@ -57,6 +57,6 @@
   {
     "id": "OTHERS",
     "name": "其他",
-    "count": 78
+    "count": 81
   }
 ]
